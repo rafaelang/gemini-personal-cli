@@ -29,16 +29,25 @@
 [License](LICENSE.md)
 ```
 
-# Install
-
+# Install from git
 ```sh
-pip install --user [DOWNLOAD PACKAGE]/dist/geminicli-0.1.0-py3-none-any.whl
+pip install --user git+https://github.com/rafaelang/gemini-personal-cli.git;
 export GCLI_GOOGLE_API_KEY=**************************
 ```
+
 
 # Usage
 
 ```sh
 gcli "Question..."
 ```
+
+
+# Install from download/clone
+
+```sh
+pip install --user [DOWNLOAD PACKAGE]/dist/geminicli-0.1.0-py3-none-any.whl
+export GCLI_GOOGLE_API_KEY=**************************
+```
+
 
