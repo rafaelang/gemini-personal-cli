@@ -3,7 +3,7 @@
 **Disclaimer:**
 
 
-The creator of this package assumes no responsibility or liability for any usage of the package by users. Users are solely responsible for understanding the implications and potential risks associated with using the package. The intended purpose of the package is [briefly state the purpose]. Misuse or unintended use of the package is at the user's own risk.
+The creator of this package assumes no responsibility or liability for any usage of the package by users. Users are solely responsible for understanding the implications and potential risks associated with using the package. The intended purpose of the package is personal use. Misuse or unintended use of the package is at the user's own risk.
 
 
 # License
